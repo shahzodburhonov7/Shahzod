@@ -2,7 +2,7 @@
 ![image](https://github.com/user-attachments/assets/56a4aa9d-d1fe-4a1b-aa6f-226c627f8b6e)
 
 
-<h1 align="center">Hi 👋, I'm Shaxzod</h1>
+<h1 align="center">Hi 👋, I'm shahzodburhonov7 ·</h1>
 <h3 align="center">A passionate mobile developer from Uzbekistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shaxzod&label=Profile%20views&color=0e75b6&style=flat" alt="shaxzod" /> </p>
