@@ -1,4 +1,4 @@
-# Shahzod
+# shahzodburhonov7
 ![image](https://github.com/user-attachments/assets/56a4aa9d-d1fe-4a1b-aa6f-226c627f8b6e)
 
 
